@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="StateView">
+        <attr format="reference" name="emptyResource" />
+        <attr format="reference" name="retryResource" />
+    </declare-styleable>
+
+</resources>
