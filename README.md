@@ -1,8 +1,9 @@
 # BASE
 项目基类：
-基础网络和adapter工具类
+###### 基础网络和adapter工具类
 
-# 1.网络：retrofit+rxjava（动态代理，类加载器）（观察者模式，线程切换）
+# 1.网络：retrofit+rxjava
+###### （动态代理，类加载器）（观察者模式，线程切换）
 # 2.Adapter（BaseRecyclerViewAdapterHelper）
 BRVAH是一个强大的RecyclerAdapter框架，它能节约开发者大量的开发时间，集成	了大部分列表常用需求解决方案。
 包含一个工具类BaseViewHolderHelper
