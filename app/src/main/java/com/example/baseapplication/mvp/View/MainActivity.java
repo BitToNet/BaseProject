@@ -1,4 +1,4 @@
-package com.example.baseapplication.activity;
+package com.example.baseapplication.mvp.View;
 
 import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
